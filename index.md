@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-
+This line was added by Dipendu for JIRA Issue 1070
 [Welcome to Travel Group Company](https://dipenduroy.github.io/)
 
 This is a text modified from new feature branch called - myfeature2
